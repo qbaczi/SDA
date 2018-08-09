@@ -13,4 +13,7 @@ public class Main {
 
         return c + c;
     }
+    public Integer multiply (Integer a, Integer b){
+        return a*b;
+    }
 }
